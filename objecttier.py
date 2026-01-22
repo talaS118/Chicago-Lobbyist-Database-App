@@ -1,11 +1,9 @@
 #
 # objecttier
 #
-# Builds Lobbyist-related objects from data retrieved through 
-# the data tier.
+# Builds Lobbyist-related objects from data retrieved through the data tier.
 #
-# Original author: Ellen Kidane
-#
+
 import datatier
 
 
