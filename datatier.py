@@ -3,8 +3,8 @@
 #
 # Executes SQL queries against the given database.
 #
-# Original author: Prof. Joe Hummel, Ellen Kidane
 #
+
 import sqlite3
 
 ##################################################################
