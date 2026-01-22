@@ -5,6 +5,11 @@
 #
 # Original author: Tala Shraim
 #
+# Attribution
+# Starter code and database schema were provided as part of a university coursework framework.  
+# All application logic, SQL queries, object modeling, and feature implementations were completed independently.
+#
+
 import sqlite3
 import objecttier
 
